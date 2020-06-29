@@ -1,0 +1,3 @@
+Alumno: José Enrique Zempoaltecatl Moyotl
+Profesor: Jordi Jaromil Cruz Medrano
+Nota: En esta carpeta se muestra el contenido de las actividades solicitadas en la unidad 1
